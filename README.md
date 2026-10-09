@@ -251,4 +251,4 @@ This repository follows an MDistiller-style code organization and builds on Scal
 
 ## License
 
-This project is released under the MIT License (see [LICENSE](LICENSE)). It builds on MDistiller and SDD-CVPR2024, both of which are MIT-licensed.
+This project is released under the MIT License (see [LICENSE](LICENSE)); third-party attributions are listed in [NOTICE](NOTICE). It builds on MDistiller and SDD-CVPR2024, both of which are MIT-licensed.
